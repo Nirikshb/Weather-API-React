@@ -1,0 +1,15 @@
+h2{
+    color: black;
+}
+
+/* .header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+.box{
+    border: 1px solid black;
+    width: 65vw;
+    height: 65vh;
+}
